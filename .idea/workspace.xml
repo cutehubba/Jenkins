@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa2422f5-d1ff-49b2-aacf-1eb56309e853" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/MovieBackendApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/config/CorsGlobalConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/config/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/controller/CinemaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/controller/HallController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/controller/MovieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/controller/ScheduleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/controller/SeatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/Hall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/CinemaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/HallRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/MovieRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/PaymentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/ScheduleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/SeatRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/repository/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/CinemaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/HallService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/JwtService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/ScheduleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/SeatService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/ticketing/userservice/util/ApiResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/movie/ticketing/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa2422f5-d1ff-49b2-aacf-1eb56309e853" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,44 +24,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Database Script.data.sql.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MovieBackendApplication.executor&quot;: &quot;Run&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/123/Desktop/movie_backend/src/main/java/com/movie/ticketing/userservice/entity&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Database Script.data.sql.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MovieBackendApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/123/Desktop/movie_backend/src/main/java/com/movie/ticketing/userservice/entity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ],
-    &quot;RunConfigurationTargetLRU&quot;: [
-      &quot;1da75172-7739-43b1-8948-12d9235d40ae&quot;,
-      &quot;3f2309af-7431-4228-b9aa-1c18de2bcc45&quot;
+    "RunConfigurationTargetLRU": [
+      "1da75172-7739-43b1-8948-12d9235d40ae",
+      "3f2309af-7431-4228-b9aa-1c18de2bcc45"
     ],
-    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
-      &quot;MySQL&quot;
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "MySQL"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\123\Desktop\movie_backend\src\main\java\com\movie\ticketing\userservice\entity" />
@@ -168,7 +118,7 @@
       <workItem from="1750673230658" duration="1383000" />
       <workItem from="1750674633892" duration="200000" />
       <workItem from="1750845828392" duration="495000" />
-      <workItem from="1750856893415" duration="47000" />
+      <workItem from="1750856893415" duration="519000" />
     </task>
     <servers />
   </component>
