@@ -9,7 +9,7 @@ pipeline {
                     checkout scm
 
                     // 2. 使用 Maven 编译并运行 Spring Boot
-                    cmd 'mvn clean package spring-boot:run -Dspring-boot.run.profiles=jenkins'
+                    sh 'mvn clean package spring-boot:run -Dspring-boot.run.profiles=jenkins'
                     
                     // 3. 或者后台运行（可选）
                     // sh 'nohup mvn spring-boot:run > backend.log 2>&1 &'
